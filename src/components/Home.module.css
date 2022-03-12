@@ -1,0 +1,16 @@
+.background{
+    display: block;
+    background-color: rgb(214, 202, 91);
+    position:absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+}
+
+.photo {
+    padding-top: 5%;
+    padding-bottom: 2%;
+    margin-bottom: 10%;
+}
+
